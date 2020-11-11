@@ -7,6 +7,6 @@ public class Elsobranch {
 
     private String valamiAzElsobol;
     private String masodik;
-    
+
     private String harmadik;
 }
