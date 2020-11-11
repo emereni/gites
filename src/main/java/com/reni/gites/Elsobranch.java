@@ -6,6 +6,4 @@ import lombok.AllArgsConstructor;
 public class Elsobranch {
 
     private String valamiAzElsobol;
-
-    private String harmadik;
 }
